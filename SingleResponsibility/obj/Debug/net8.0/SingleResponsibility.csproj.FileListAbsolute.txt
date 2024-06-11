@@ -1,0 +1,14 @@
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/SingleResponsibility/bin/Debug/net8.0/SingleResponsibility
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/SingleResponsibility/bin/Debug/net8.0/SingleResponsibility.deps.json
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/SingleResponsibility/bin/Debug/net8.0/SingleResponsibility.runtimeconfig.json
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/SingleResponsibility/bin/Debug/net8.0/SingleResponsibility.dll
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/SingleResponsibility/bin/Debug/net8.0/SingleResponsibility.pdb
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/SingleResponsibility/obj/Debug/net8.0/SingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/SingleResponsibility/obj/Debug/net8.0/SingleResponsibility.AssemblyInfoInputs.cache
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/SingleResponsibility/obj/Debug/net8.0/SingleResponsibility.AssemblyInfo.cs
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/SingleResponsibility/obj/Debug/net8.0/SingleResponsibility.csproj.CoreCompileInputs.cache
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/SingleResponsibility/obj/Debug/net8.0/SingleResponsibility.dll
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/SingleResponsibility/obj/Debug/net8.0/refint/SingleResponsibility.dll
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/SingleResponsibility/obj/Debug/net8.0/SingleResponsibility.pdb
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/SingleResponsibility/obj/Debug/net8.0/SingleResponsibility.genruntimeconfig.cache
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/SingleResponsibility/obj/Debug/net8.0/ref/SingleResponsibility.dll
