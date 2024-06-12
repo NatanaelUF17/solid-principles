@@ -1,4 +1,4 @@
-public class Square : Rectangle
+internal class Square : Rectangle
 {
     public override int Width
     {

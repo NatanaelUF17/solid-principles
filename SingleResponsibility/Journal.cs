@@ -1,4 +1,4 @@
-public class Journal
+internal class Journal
 {
     private readonly List<string> _journals = [];
     private static int count = 0;

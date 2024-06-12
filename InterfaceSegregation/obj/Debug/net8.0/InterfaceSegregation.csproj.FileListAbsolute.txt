@@ -1,0 +1,15 @@
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/InterfaceSegregation/bin/Debug/net8.0/InterfaceSegregation
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/InterfaceSegregation/bin/Debug/net8.0/InterfaceSegregation.deps.json
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/InterfaceSegregation/bin/Debug/net8.0/InterfaceSegregation.runtimeconfig.json
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/InterfaceSegregation/bin/Debug/net8.0/InterfaceSegregation.dll
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/InterfaceSegregation/bin/Debug/net8.0/InterfaceSegregation.pdb
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.AssemblyInfoInputs.cache
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.AssemblyInfo.cs
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.csproj.CoreCompileInputs.cache
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.sourcelink.json
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.dll
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/InterfaceSegregation/obj/Debug/net8.0/refint/InterfaceSegregation.dll
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.pdb
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.genruntimeconfig.cache
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/InterfaceSegregation/obj/Debug/net8.0/ref/InterfaceSegregation.dll

@@ -1,4 +1,4 @@
-public class Persistence
+internal class Persistence
 {
     public async void SaveToFile(Journal journal, string fileName, bool overwrite = false)
     {
