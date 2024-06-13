@@ -1,0 +1,15 @@
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/OpenClosed/bin/Debug/net8.0/OpenClosed
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/OpenClosed/bin/Debug/net8.0/OpenClosed.deps.json
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/OpenClosed/bin/Debug/net8.0/OpenClosed.runtimeconfig.json
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/OpenClosed/bin/Debug/net8.0/OpenClosed.dll
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/OpenClosed/bin/Debug/net8.0/OpenClosed.pdb
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/OpenClosed/obj/Debug/net8.0/OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/OpenClosed/obj/Debug/net8.0/OpenClosed.AssemblyInfoInputs.cache
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/OpenClosed/obj/Debug/net8.0/OpenClosed.AssemblyInfo.cs
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/OpenClosed/obj/Debug/net8.0/OpenClosed.csproj.CoreCompileInputs.cache
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/OpenClosed/obj/Debug/net8.0/OpenClosed.sourcelink.json
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/OpenClosed/obj/Debug/net8.0/OpenClosed.dll
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/OpenClosed/obj/Debug/net8.0/refint/OpenClosed.dll
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/OpenClosed/obj/Debug/net8.0/OpenClosed.pdb
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/OpenClosed/obj/Debug/net8.0/OpenClosed.genruntimeconfig.cache
+/Users/nurenaf/dev/personal-training/dotnet/SolidPrinciples/OpenClosed/obj/Debug/net8.0/ref/OpenClosed.dll
